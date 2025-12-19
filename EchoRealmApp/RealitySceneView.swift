@@ -1,6 +1,6 @@
 import SwiftUI
 import RealityKit
-import RealityKitContent
+// import RealityKitContent
 
 struct RealitySceneView: View {
     @State private var splatEntity: Entity?

@@ -1,0 +1,9 @@
+Command line invocation:
+    /Applications/Xcode-26.2.0.app/Contents/Developer/usr/bin/xcodebuild -scheme EchoRealm -destination id=BB06A4AA-F7DC-4630-BAF2-50BCA5B7753B -showBuildSettings
+
+Resolve Package Graph
+
+
+Resolved source packages:
+  EchoRealm: /Users/jchacker5/Documents/EchoRealm/EchoRealmApp
+
